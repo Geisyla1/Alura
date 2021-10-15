@@ -1,0 +1,40 @@
+/*Estilização da página home*/
+.principal{
+    background-color: #cccccc;
+    padding: 30px;
+}
+.titulo{
+    padding-left: 20px;
+}
+#banner{
+    width: 100%;
+}
+.titulo-centralizado{
+    text-align: center;
+}
+p{
+    text-align:center;
+}
+#p{
+    font-size: 20px;
+}
+em strong{
+    color:#FF0000;
+}
+.itens{
+    font-style: italic;
+}
+.beneficios{
+    background-color:#ffffff;
+    padding: 20px;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagensbeneficios{
+    width: 50%;
+}
+
